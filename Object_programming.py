@@ -3,6 +3,7 @@ class item:
 #creating instances of the item class
 item1 = item()
 item2 = item()
+item3 = item()
 
 ''' Phone Shop'''
 item1_name = 'phone'
